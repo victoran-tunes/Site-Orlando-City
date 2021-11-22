@@ -1,3 +1,3 @@
 # Site-Orlando-City
 
-Feito com Jquery, Bootstrap e Um Vídeo Player
+Feito com Jquery, Bootstrap, HTML, CSS, JS, PHP, Angular e SLIM FRAMEWORK.
